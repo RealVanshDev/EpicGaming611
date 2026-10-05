@@ -29,17 +29,17 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EpicGaming611&show_icons=true&theme=radical&hide_border=true" alt="Vansh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RealVanshDev&show_icons=true&theme=radical&hide_border=true" alt="Vansh's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EpicGaming611&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealVanshDev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🚀 Featured Projects
-- **[PingBotFake](https://github.com/EpicGaming611/PingBotFake)**: A simple yet powerful Discord bot that automatically pings users or roles at set intervals.
-- **[Main-Portfolio](https://github.com/EpicGaming611/Main-Portfolio)**: My personal portfolio website showcasing my development journey.
-- **[vk-guardian-bot](https://github.com/EpicGaming611/vk-guardian-bot)**: A functional Discord bot written in Python.
-- **[RvFriendShipCardGenerator](https://github.com/EpicGaming611/RvFriendShipCardGenerator)**: A creative web tool built with HTML.
+- **[PingBotFake](https://github.com/RealVanshDev/PingBotFake)**: A simple yet powerful Discord bot that automatically pings users or roles at set intervals.
+- **[Main-Portfolio](https://github.com/RealVanshDev/Main-Portfolio)**: My personal portfolio website showcasing my development journey.
+- **[vk-guardian-bot](https://github.com/RealVanshDev/vk-guardian-bot)**: A functional Discord bot written in Python.
+- **[RvFriendShipCardGenerator](https://github.com/RealVanshDev/RvFriendShipCardGenerator)**: A creative web tool built with HTML.
