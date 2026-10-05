@@ -2,12 +2,12 @@
   <img src="https://i.imgur.com/ONdUQl8.jpeg" alt="Vansh Logo" width="120" height="120" />
 </p>
 
-<h1 align="center">Hi there 👋, I'm Vansh Kanodia</h1>
+<h1 align="center">Hi there 👋, I'm RealVansh</h1>
 <h3 align="center">A passionate developer building web apps and Discord bots 🚀</h3>
 
 <p align="center">
   <a href="https://rvdevelopment.online/">🌐 Visit My Website</a> •
-  <a href="https://github.com/EpicGaming6211">🐙 GitHub Profile</a>
+  <a href="https://github.com/RealVanshDev">🐙 GitHub Profile</a>
 </p>
 
 ---
